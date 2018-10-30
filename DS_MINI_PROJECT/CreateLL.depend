@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1540028602 source:e:\sagar\codeblocks\createll\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1540022662 source:e:\sagar\codeblocks\createll\dsproj1.c
+	<stdio.h>
+	<stdlib.h>
+
+1540121376 source:c:\users\dell\desktop\ds_project_6699\createll\intro6699.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1540187676 source:c:\users\dell\desktop\ds_project_6699\createll\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1540121378 source:c:\users\sagar mahesh bagwe\desktop\ds_project_6699\createll\intro6699.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1540362980 source:c:\users\sagar mahesh bagwe\desktop\ds_project_6699\createll\main.c
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\Sagar Mahesh Bagwe\Desktop\DS_PROJECT_6699\CreateLL\intro6699.c"
+
+1540131792 c:\users\sagar mahesh bagwe\desktop\ds_project_6699\createll\intro6699.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
